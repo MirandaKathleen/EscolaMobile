@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Excel basico Sala 01",
+        "professorId": 1
+    },
+    {
+        "nome": "Excel Avançado Sala 03",
+        "professorId": 1
+    },
+    {
+        "nome": "Alinhamento Estratégico Aplicado à Gestão sala 05",
+        "professorId": 1
+    },
+    {
+        "nome": "Eletrônica Sala 01",
+        "professorId": 2
+    },
+    {
+        "nome": "Eletrônica Sala 02",
+        "professorId": 2
+    },
+    {
+        "nome": "Eletrômecanica Sala 01",
+        "professorId": 2
+    },
+    {
+        "nome": "Eletrômecanica Sala 02",
+        "professorId": 3
+    },
+    {
+        "nome": "Competência Transversal - Finanças Pessoais sala 05",
+        "professorId": 3
+    },
+    {
+        "nome": "Mecânico de Bombas Sala 02",
+        "professorId": 3
+    }
+]
